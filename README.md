@@ -43,13 +43,13 @@ This repository contains an **8086 Assembly language program** that accepts two 
 
 ## File
 
-- `assignment1.asm` – Main program file containing the 8086 Assembly code
+- `xxyz.asm` – Main program file containing the 8086 Assembly code
 
 ---
 
 ## How to Run
 
-1. Open the `assignment1.asm` file in **EMU8086** emulator
+1. Open the `xxyz.asm` file in **EMU8086** emulator
 2. Compile and run the program
 3. Follow on-screen prompts to enter two digits
 4. Program displays the sum of the digits
